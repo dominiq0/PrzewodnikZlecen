@@ -156,7 +156,7 @@ namespace PrzewodnikZlecen
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            
+            //comment
                 UstawieniaMG.ReadAllSettings();
             string sds = UstawieniaMG.ReadSetting("Setting1");
                UstawieniaMG.ReadSetting("NotValid");
