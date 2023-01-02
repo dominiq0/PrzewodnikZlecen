@@ -307,7 +307,7 @@
 				PreviewMouseLeftButtonUp="gspl_PreviewMouseLeftButtonUp"
 				Background="#FF5E5E5E" />
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="27,69,0,0" Grid.Row="3" VerticalAlignment="Top" Width="28" Click="Button_Click" Height="20"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="4,25,0,0" Grid.Row="3" VerticalAlignment="Top" Width="28" Click="Button_Click" Height="20"/>
 
     </Grid>
 </Window>
